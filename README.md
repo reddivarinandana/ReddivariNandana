@@ -1,21 +1,7 @@
-Reddivari Nandana / README.md
-### Hi there 👋 Iam Reddivari Nandana , Full Stack Web Developer
-ReddivariNandana
-
-Let's Connect on Social Media
-
-
-<!--
-**reddivarinandana/ReddivariNandana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <h3>Reddivari Nandana Readme.md</h3>
+  <p>Hi <img style="width:20px","height:20px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="">Iam Reddivari Nandana , Aspring Full Strack Web Developer</p>
+  <h3>Let's Connect On Social Media</h3>
+<a href="nandanareddy1122@gmail.com"> <img src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" alt=""></a>
+  <img src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" alt="">
+</div>
