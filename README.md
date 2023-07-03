@@ -31,6 +31,6 @@
 
 <p align:"left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reddivarinandana&" alt="reddivarinandana" /></p>
 
-<p align:"right"><img src="https://i.gifer.com/origin/5c/5cacfb50e5e4cab7b8ff07fdb4518ade_w200.gif" alt="" /></p>
+<div><p style="align:right"><img src="https://i.gifer.com/origin/5c/5cacfb50e5e4cab7b8ff07fdb4518ade_w200.gif" alt="" /></p></div>
 
 </div>
