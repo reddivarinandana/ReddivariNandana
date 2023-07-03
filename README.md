@@ -1,6 +1,7 @@
 <div>
-  <h3>Reddivari Nandana Readme.md</h3>
+  <h3>Nandana  Reddivari Readme.md</h3>
   <p>Hi <img style="width:20px","height:20px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="">Iam Reddivari Nandana , Aspring Full Strack Web Developer</p>
+  <img style="height:200px","width:200px" src="https://media.kasperskydaily.com/wp-content/uploads/sites/92/2023/04/21060248/Animation-1200-x-900.gif" alt=""/>
   <h3>Let's Connect On Social Media</h3>
     <a title="nandanareddy1122@gmail.com" href="mailto:nandanareddy1122@gmail.com" target="blank"><img style="width:25px","height:25px" src="https://cdn-icons-png.flaticon.com/128/10829/10829119.png" alt="" /></a>
   <a href="https://www.linkedin.com/in/reddivari-nandana-9b68aa251/" target="blank"><img style="width:25px","height:25px" src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" alt="" /></a>
