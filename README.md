@@ -12,7 +12,7 @@
  
   <p>- 💬 Ask me about : HTML and CSS</p>
 
-  <p>- 📫 How to reach me : nandanareddy1122@gmail.com</p>
+  - 📫 How to reach me : nandanareddy1122@gmail.com
 
   <p>- 📄 Know about me : [https://drive.google.com/file/d/1pCGf2M5jWPogNzNtluTtNgrdWHcZnzBS/view?usp=sharing](https://drive.google.com/file/d/1pCGf2M5jWPogNzNtluTtNgrdWHcZnzBS/view?usp=sharing)
  <h3 align="left">Languages and Tools:</h3>
