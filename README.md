@@ -18,7 +18,7 @@
 
  - 📫 How to reach me : nandanareddy1122@gmail.com
 
- - 📄 Know about me : [view pdf](https://drive.google.com/file/d/1pCGf2M5jWPogNzNtluTtNgrdWHcZnzBS/view?usp=sharing)
+ - 📄 Know about me : [view pdf](https://drive.google.com/file/d/12QPG7SF7cauPKSimSfeFXRLbc8B7RRlY/view?usp=drive_link)
  <h3 align="left">Languages and Tools:</h3>
  <p>🚀 Languages : HTML, CSS , JAVASCRIPT, JAVA</p>
  <P>🚀 Frontend : React</P>
