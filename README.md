@@ -5,6 +5,7 @@
   <div style="text-align:center">
  <img style="height:200px","width:200px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLGmQRsZR_PsMG6xbVzTEfgLGrBprTohlUK-Jv1GC0dfenlr_zs4xN-jTUcdvhgDcWYnw&usqp=CAU" alt=""/>
   
+  
  <h3>Let's Connect On Social Media</h3>
   <a title="nandanareddy1122@gmail.com" href="mailto:nandanareddy1122@gmail.com" target="blank"><img style="width:25px","height:25px" src="https://cdn-icons-png.flaticon.com/128/10829/10829119.png" alt="" /></a>
  <a href="https://www.linkedin.com/in/reddivari-nandana-9b68aa251/" target="blank"><img style="width:25px","height:25px" src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" alt="" /></a>
@@ -17,7 +18,7 @@
 
  - 📫 How to reach me : nandanareddy1122@gmail.com
 
-  <p>- 📄 Know about me : [https://drive.google.com/file/d/1pCGf2M5jWPogNzNtluTtNgrdWHcZnzBS/view?usp=sharing](https://drive.google.com/file/d/1pCGf2M5jWPogNzNtluTtNgrdWHcZnzBS/view?usp=sharing)
+  <p>- 📄 Know about me :[view pdf] (https://drive.google.com/file/d/1pCGf2M5jWPogNzNtluTtNgrdWHcZnzBS/view?usp=sharing](https://drive.google.com/file/d/1pCGf2M5jWPogNzNtluTtNgrdWHcZnzBS/view?usp=sharing)
  <h3 align="left">Languages and Tools:</h3>
  <p>🚀 Languages : HTML, CSS , JAVASCRIPT, JAVA</p>
  <P>🚀 Frontend : React</P>
