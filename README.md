@@ -24,13 +24,13 @@
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=reddivarinandana&show_icons=true&locale=en&layout=compact" alt="reddivarinandana" /></p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reddivarinandana&show_icons=true&locale=en" alt="reddivarinandana" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=reddivarinandana&show_icons=true&locale=en" alt="reddivarinandana" /></p>
 
 
 
 
 <p align:"left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reddivarinandana&" alt="reddivarinandana" /></p>
-<p align:"right"><img src="https://i.gifer.com/origin/5c/5cacfb50e5e4cab7b8ff07fdb4518ade_w200.gif" alt=""></p>
+<p><img style="align:right" src="https://i.gifer.com/origin/5c/5cacfb50e5e4cab7b8ff07fdb4518ade_w200.gif" alt=""></p>
 
 
 
