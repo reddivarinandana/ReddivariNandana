@@ -1,5 +1,9 @@
-### Hi there 👋
+Reddivari Nandana / README.md
+### Hi there 👋 Iam Reddivari Nandana , Full Stack Web Developer
 ReddivariNandana
+
+Let's Connect on Social Media
+
 
 <!--
 **reddivarinandana/ReddivariNandana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
