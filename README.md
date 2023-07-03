@@ -18,7 +18,7 @@
   <h3 align="left">Languages and Tools:</h3>
   <p>🚀 Languages : HTML, CSS , JAVASCRIPT, JAVA</p>
   <P>🚀 Frontend : React</P>
-  <P>🚀 Backend:Mysql , DBMS</P>
+  <P>🚀 Backend : Mysql , DBMS</P>
   
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=reddivarinandana&show_icons=true&locale=en&layout=compact" alt="reddivarinandana" /></p>
