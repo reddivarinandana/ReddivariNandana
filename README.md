@@ -29,7 +29,7 @@
 <p></p>
 
 
-<div style="display:flex">
+<div display:flex">
     <p align:"left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reddivarinandana&" alt="reddivarinandana" /></p>
     <img src="https://i.gifer.com/origin/5c/5cacfb50e5e4cab7b8ff07fdb4518ade_w200.gif" alt="">
 
