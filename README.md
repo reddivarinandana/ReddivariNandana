@@ -20,8 +20,8 @@
 
  - 📄 Know about me : [view pdf](https://drive.google.com/file/d/12QPG7SF7cauPKSimSfeFXRLbc8B7RRlY/view?usp=drive_link)
  <h3 align="left">Languages and Tools:</h3>
- <p>🚀 Languages : HTML, CSS , JAVASCRIPT, JAVA</p>
- <P>🚀 Frontend : React</P>
+ <p>🚀 Languages : HTML, CSS , JAVASCRIPT, JAVA,Tailwind css, Materail UI</p>
+ <P>🚀 Frontend : React,Next.js</P>
  <P>🚀 Backend : Mysql , DBMS</P>
  
 
